@@ -1,11 +1,25 @@
 {
   "name": "mickaeldjoghlal_5_meteo",
   "version": "1.0.0",
-  "description": "Création d'une API station météo en JavaScript",
-  "main": "index.js",
+  "description": "Création d'une API de Station Météo par ville ou code postale",
+  "main": "index.html",
   "scripts": {
-    "sass": "sass --watch ./sass/main.scss:.public/css/style.css"
+    "sass": "sass --watch ./sass/main.scss:public/css/style.css"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Djoghlal/MickaelDjoghlal_5_Meteo.git"
+  },
+  "keywords": [
+    "Météo",
+    "station",
+    "temps",
+    "température"
+  ],
   "author": "Mickaël Djoghlal",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Djoghlal/MickaelDjoghlal_5_Meteo/issues"
+  },
+  "homepage": "https://github.com/Djoghlal/MickaelDjoghlal_5_Meteo#readme"
 }
